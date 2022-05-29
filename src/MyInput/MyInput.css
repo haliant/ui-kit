@@ -1,0 +1,10 @@
+.MyInput {
+  padding: 10px 5px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+.big {
+  font-size: 30px;
+  padding: 20px;
+}
